@@ -88,8 +88,21 @@ for index, row  in data.iterrows():
 #prescriptions, AgeRange, AvgIncome
 new_point = [5, 25, 55000]
 # get cluster it is in
-new_point_label = kmeans.predict(new_point)
+print(np.array(new_point))
+new_point_label = kmeans.predict(np.array((new_point)).reshape(1, -1))
 print(new_point_label)
+
+# predict new point
+#prescriptions, AgeRange, AvgIncome
+new_point = [15, 23, 85000]
+# get cluster it is in
+print(np.array(new_point))
+new_point_label = kmeans.predict(np.array((new_point)).reshape(1, -1))
+print(new_point_label)
+
+
+
+
 
 """
 dict = {}
