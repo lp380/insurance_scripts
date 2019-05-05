@@ -5,3 +5,4 @@ lib
 share
 olympics2016.csv
 xclara.csv
+__pycache__/
