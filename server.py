@@ -21,7 +21,6 @@ def get_parameters():
     var =  print_args(user_input_prescriptions, user_input_age, user_input_salary)
     return str(var)
 
-
 def print_args(pres, age, salary):
     print("number of prescriptions from user", pres)
     print("age of user", age)
