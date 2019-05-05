@@ -1,0 +1,1001 @@
+id,State,County,NumPrescriptions,PriorConditions,AgeRange,AvgIncome
+1,North Carolina,at feugiat,39,porta volutpat erat,47,48168.16
+2,Missouri,faucibus,8,eget vulputate ut ultrices,26,77972.59
+3,Virginia,pellentesque ultrices phasellus,38,nulla nisl nunc,55,85991.25
+4,Connecticut,sapien,32,proin at turpis,42,81974.71
+5,Texas,justo etiam pretium,21,vivamus tortor duis,30,39739.24
+6,California,vestibulum,33,diam erat fermentum justo nec,49,28610.43
+7,Oklahoma,eleifend,23,euismod scelerisque quam turpis adipiscing lorem,77,12464.8
+8,New York,sem,11,nisi nam ultrices,54,42108.05
+9,Kentucky,lectus in quam,9,nec nisi vulputate nonummy,54,26496.77
+10,New York,magna,13,a ipsum integer a nibh,48,83651.71
+11,Missouri,vestibulum ante ipsum,38,parturient montes nascetur ridiculus mus etiam,49,41961.61
+12,Minnesota,non mattis,36,ac neque duis,56,27094.4
+13,South Dakota,nulla ut erat,17,nisl ut volutpat sapien,30,21956.62
+14,California,tempus semper,47,aenean auctor gravida sem praesent,50,96253.26
+15,Texas,erat tortor sollicitudin,30,enim in tempor,32,31749.23
+16,Nebraska,purus,33,aliquet ultrices erat tortor sollicitudin,90,66751.94
+17,Oregon,posuere cubilia curae,16,dui maecenas tristique est et,52,56582.61
+18,Maryland,lacinia sapien,18,risus dapibus augue,71,76737.44
+19,California,vitae,41,proin at turpis a,100,34876.3
+20,Texas,eleifend,6,duis consequat dui,25,43943.23
+21,Louisiana,velit nec,41,quisque ut erat,39,64051.77
+22,Alabama,integer,17,luctus rutrum nulla tellus,96,56920.05
+23,New Mexico,amet sem,44,sem mauris laoreet ut rhoncus aliquet,47,84825.34
+24,Washington,nisi venenatis tristique,5,elementum in hac habitasse platea dictumst,68,99677.98
+25,Indiana,ultrices posuere cubilia,15,dapibus duis at,62,22984.18
+26,Illinois,tristique est,34,lacus morbi quis tortor id,29,80588.27
+27,Georgia,luctus et,11,rhoncus aliquam lacus,57,54853.19
+28,Georgia,purus aliquet at,22,congue eget semper,93,90942.32
+29,Massachusetts,donec,49,turpis sed ante vivamus tortor,22,85959.59
+30,Indiana,molestie,16,volutpat eleifend donec ut dolor,98,42135.54
+31,Pennsylvania,quis tortor id,19,at nibh in,42,48265.78
+32,Illinois,blandit lacinia,18,praesent blandit lacinia erat vestibulum,95,69005.97
+33,California,congue,18,maecenas rhoncus aliquam lacus morbi quis,95,21582.25
+34,Kansas,donec,32,mauris enim leo rhoncus,78,15869.17
+35,Virginia,augue vel,43,sapien non mi integer ac neque,53,57023.11
+36,South Carolina,ut,8,suscipit nulla elit,40,43702.23
+37,Arizona,erat tortor,26,integer pede justo lacinia eget,51,56029.74
+38,Texas,magna vulputate,31,adipiscing elit proin,30,14825.68
+39,Kentucky,ut at,28,maecenas tincidunt lacus at velit vivamus,44,54858.46
+40,Iowa,rhoncus dui,31,hac habitasse platea dictumst aliquam,71,91058.65
+41,Connecticut,curabitur gravida nisi,22,volutpat convallis morbi,100,83976.89
+42,Indiana,in faucibus,8,lectus vestibulum quam,32,91838.7
+43,Michigan,luctus ultricies,45,ante ipsum primis in faucibus,73,79462.14
+44,South Dakota,sem,45,sed tristique in tempus sit,42,69572.61
+45,Minnesota,id nulla ultrices,20,id lobortis convallis tortor,38,39976.93
+46,Alabama,nisl nunc nisl,26,duis faucibus accumsan odio curabitur,100,14039.03
+47,California,convallis eget eleifend,41,magna ac consequat,38,65445.04
+48,District of Columbia,pede venenatis non,44,interdum mauris ullamcorper purus sit amet,81,37265.16
+49,Texas,arcu,31,dictumst aliquam augue quam sollicitudin,48,61559.76
+50,California,donec quis,8,est lacinia nisi,87,26578.32
+51,Ohio,potenti,16,dui nec nisi,35,91478.39
+52,Maryland,ipsum dolor,37,volutpat eleifend donec ut,73,41996.26
+53,Arizona,nam,6,sit amet diam in,73,25602.99
+54,Florida,vestibulum ac,29,fusce lacus purus,82,20914.12
+55,Illinois,ante,3,eu sapien cursus vestibulum,21,11597.39
+56,Michigan,mollis,24,lorem id ligula suspendisse ornare,38,67174.65
+57,Texas,integer tincidunt ante,46,vivamus in felis eu sapien,45,97663.46
+58,Ohio,convallis tortor,23,vivamus in felis eu sapien,88,64946.22
+59,California,metus vitae ipsum,19,sit amet turpis,51,90634.13
+60,Illinois,tellus,7,vestibulum ante ipsum primis in faucibus,96,75131.35
+61,Florida,ac,24,id massa id nisl venenatis,73,79755.94
+62,Florida,pulvinar sed nisl,47,nunc commodo placerat praesent blandit,62,33364.74
+63,California,fusce congue,28,nec dui luctus rutrum nulla,42,44891.96
+64,California,dis,8,in purus eu magna,46,61691.77
+65,New Jersey,eget,9,semper interdum mauris ullamcorper purus,37,12195.58
+66,Washington,mus etiam vel,42,non ligula pellentesque ultrices,45,80019.2
+67,North Carolina,natoque penatibus,23,praesent lectus vestibulum,80,54802.11
+68,Pennsylvania,duis bibendum morbi,32,hac habitasse platea,72,78503.99
+69,Pennsylvania,potenti in eleifend,43,maecenas pulvinar lobortis est phasellus,65,20522.84
+70,New Hampshire,quam,38,lorem id ligula suspendisse ornare,19,72952.7
+71,Oklahoma,nulla suscipit ligula,27,vitae quam suspendisse potenti nullam,21,35240.92
+72,Illinois,elementum,35,ac enim in tempor turpis nec,74,96591.79
+73,Minnesota,neque,38,odio condimentum id luctus,95,78762.28
+74,New York,luctus,3,ridiculus mus vivamus,53,15234.31
+75,Wisconsin,dapibus at diam,32,volutpat sapien arcu sed augue,79,15515.92
+76,California,curabitur convallis,28,hac habitasse platea,55,94484.57
+77,Washington,purus sit,42,enim leo rhoncus sed vestibulum,77,33789.43
+78,Nevada,id,41,in quis justo maecenas,27,86407.35
+79,Connecticut,non mattis pulvinar,2,magna vulputate luctus cum sociis,70,97372.26
+80,Missouri,nec euismod scelerisque,34,libero nullam sit,57,61559.82
+81,Washington,quis orci,15,mus vivamus vestibulum,63,94831.82
+82,Wisconsin,mattis egestas,48,phasellus in felis donec semper sapien,69,84547.46
+83,Utah,ut volutpat sapien,35,ipsum primis in,90,80276.56
+84,Virginia,amet consectetuer adipiscing,26,molestie lorem quisque ut,63,49245.92
+85,California,ut massa volutpat,36,rhoncus aliquet pulvinar,52,39930.42
+86,Florida,dolor,23,interdum mauris non ligula,83,55835.32
+87,Michigan,sit amet,45,mauris eget massa tempor,67,72627.17
+88,West Virginia,augue quam sollicitudin,23,rutrum rutrum neque aenean,75,30269.51
+89,Texas,nonummy integer non,18,quisque ut erat curabitur gravida nisi,18,86190.07
+90,Minnesota,quisque ut erat,42,et ultrices posuere,75,81847.7
+91,Arizona,amet consectetuer adipiscing,42,amet justo morbi,91,82076.07
+92,Missouri,massa tempor convallis,47,justo aliquam quis turpis eget,74,45264.12
+93,Texas,semper interdum mauris,26,duis bibendum felis sed interdum,35,62272.05
+94,Maryland,libero nam,41,luctus rutrum nulla tellus,70,17353.1
+95,Texas,nunc nisl,46,sit amet consectetuer adipiscing,73,17179
+96,Virginia,quam pede lobortis,49,proin risus praesent lectus vestibulum,96,82097.22
+97,Oklahoma,ligula,41,nisi venenatis tristique fusce congue diam,49,88017.86
+98,Georgia,imperdiet sapien urna,44,libero ut massa,19,91764.66
+99,Washington,eget,17,suscipit ligula in lacus,97,10700.6
+100,Texas,sed tincidunt eu,5,morbi a ipsum integer a,27,54925.45
+101,California,faucibus orci,16,est et tempus semper est,76,48259.27
+102,Missouri,odio condimentum id,37,viverra eget congue,24,23737.47
+103,California,fusce congue,21,eget eros elementum,57,45749.4
+104,Massachusetts,et ultrices,38,justo morbi ut,39,91052.91
+105,Missouri,vitae nisl aenean,14,cursus id turpis integer aliquet,42,83368
+106,Utah,vel enim sit,32,in sagittis dui vel nisl,92,57053.5
+107,Texas,at,23,placerat praesent blandit nam nulla,60,17465.76
+108,New York,ipsum,19,augue luctus tincidunt nulla,60,93070.73
+109,Texas,justo etiam pretium,49,amet nunc viverra dapibus nulla,38,51678.29
+110,District of Columbia,maecenas leo,17,non mi integer,51,87241.47
+111,New York,risus,18,praesent blandit lacinia,29,59840.52
+112,Illinois,bibendum felis,21,primis in faucibus,85,46329.17
+113,Louisiana,nulla dapibus,39,faucibus orci luctus et ultrices,78,47035.61
+114,Ohio,a,34,fermentum donec ut mauris eget massa,25,98190.77
+115,Pennsylvania,neque vestibulum eget,48,sagittis nam congue risus,20,13137.36
+116,South Carolina,vel nisl,12,id consequat in,89,97902.3
+117,Missouri,vehicula,13,nunc commodo placerat praesent,70,45371.96
+118,Oklahoma,congue risus semper,12,nec condimentum neque sapien placerat,84,77162.91
+119,New York,lacus at velit,17,suspendisse potenti nullam porttitor lacus at,61,47078.01
+120,Florida,nec nisi,14,leo odio condimentum,67,57132.75
+121,Illinois,ultrices libero,23,duis at velit eu est congue,76,28735.48
+122,Ohio,tellus,24,a odio in hac,60,79566.71
+123,Georgia,venenatis,16,ornare consequat lectus in est risus,52,74183.23
+124,New York,ultrices,44,lobortis convallis tortor risus dapibus augue,70,83680.12
+125,District of Columbia,justo morbi ut,36,lacus at velit vivamus vel,96,18937.77
+126,New York,quisque,34,nam ultrices libero non mattis pulvinar,41,29514.31
+127,District of Columbia,nulla,41,accumsan tortor quis turpis sed,98,54280.76
+128,Florida,augue vestibulum rutrum,2,eu interdum eu tincidunt in,49,61709.93
+129,Ohio,nulla,12,est quam pharetra magna ac consequat,45,20034.26
+130,Illinois,potenti nullam porttitor,19,odio in hac habitasse,91,70033.19
+131,Alabama,neque libero,32,morbi a ipsum integer a,79,91606.76
+132,Minnesota,potenti in eleifend,34,blandit non interdum in ante,57,92143.31
+133,South Carolina,vel,41,nullam varius nulla facilisi cras,70,78431.2
+134,Illinois,aliquam lacus morbi,16,maecenas pulvinar lobortis,55,78646.4
+135,California,dictumst etiam faucibus,8,volutpat dui maecenas tristique est,22,86026.34
+136,Iowa,elementum,40,volutpat dui maecenas tristique,19,26388.11
+137,California,vestibulum ante,30,pede venenatis non sodales sed,32,90310.56
+138,Arkansas,dapibus at,7,a libero nam,98,60357.17
+139,Minnesota,sapien dignissim,24,mi pede malesuada in imperdiet et,77,40523.92
+140,Arizona,eget,27,semper interdum mauris,77,64669.84
+141,Florida,sodales sed,16,hac habitasse platea dictumst morbi,90,78888
+142,California,suspendisse accumsan,39,ultrices posuere cubilia curae nulla,86,82686.12
+143,Oklahoma,accumsan tortor quis,19,feugiat non pretium quis,54,18014.43
+144,Florida,a nibh in,2,sit amet justo morbi ut odio,99,75010.17
+145,North Carolina,suscipit nulla,32,amet sapien dignissim vestibulum vestibulum,33,17508.35
+146,Texas,non,48,sem fusce consequat nulla nisl,25,77947.6
+147,Florida,congue risus,45,lectus in quam fringilla rhoncus mauris,68,38400.11
+148,Arizona,lobortis sapien sapien,49,ante ipsum primis in faucibus,100,51772.32
+149,Indiana,primis in faucibus,39,odio justo sollicitudin ut,57,25416.11
+150,Virginia,imperdiet,17,in hac habitasse platea dictumst,85,85024.03
+151,California,vulputate elementum nullam,30,praesent blandit nam nulla integer pede,24,10123.35
+152,Florida,nunc nisl duis,46,sed augue aliquam,60,28154.04
+153,Alabama,erat curabitur gravida,20,rhoncus aliquam lacus,53,79435.37
+154,Texas,lacinia aenean sit,11,ultrices mattis odio donec vitae,65,39423.19
+155,Nevada,aliquet,27,aliquet massa id,91,52432.47
+156,Texas,ante ipsum primis,25,et ultrices posuere,53,78427.53
+157,New York,felis sed,3,ligula nec sem duis,91,66885.32
+158,North Carolina,sapien,21,adipiscing lorem vitae,94,17005.54
+159,Texas,quisque porta,19,pellentesque at nulla suspendisse,56,58318.64
+160,Nebraska,ac nibh,44,leo odio condimentum id luctus nec,29,21438.79
+161,District of Columbia,molestie hendrerit at,22,duis aliquam convallis nunc,63,39853.26
+162,Michigan,ipsum,19,tellus in sagittis dui vel nisl,19,75857.52
+163,Florida,ut mauris,15,eu nibh quisque id justo sit,53,22621.03
+164,District of Columbia,lacinia erat,43,in felis donec semper sapien,61,77594.62
+165,California,porttitor,20,consectetuer eget rutrum,22,76874.95
+166,Florida,blandit mi,8,morbi non lectus,60,71280.32
+167,Indiana,convallis nulla neque,15,vulputate elementum nullam varius nulla,44,26172.81
+168,Oklahoma,nisl ut,32,est donec odio justo,96,89591.33
+169,Tennessee,in hac,48,sit amet nulla quisque,55,55740.64
+170,Florida,eu orci mauris,10,aliquam convallis nunc proin at turpis,71,15344.73
+171,Ohio,donec semper,34,vel lectus in,34,47813.04
+172,New York,sem,28,commodo placerat praesent blandit nam nulla,46,87125.91
+173,Oregon,maecenas,31,vestibulum sagittis sapien cum sociis natoque,76,81014.52
+174,Virginia,commodo vulputate justo,20,pellentesque eget nunc donec quis,56,40047.95
+175,Virginia,in,16,vivamus tortor duis mattis egestas metus,57,97590.07
+176,District of Columbia,ut dolor morbi,27,magna at nunc commodo placerat,31,49842.55
+177,North Carolina,aliquet maecenas leo,43,in hac habitasse platea dictumst,19,17080.03
+178,District of Columbia,erat,45,massa id lobortis convallis tortor,86,99849.22
+179,Pennsylvania,nisi,50,pede morbi porttitor lorem id ligula,76,16933.83
+180,Indiana,vel nisl duis,40,dui luctus rutrum nulla tellus,73,71180.89
+181,Arizona,nec euismod scelerisque,23,nibh quisque id,67,60201.18
+182,Kansas,nulla nisl,35,lorem integer tincidunt,20,66832.85
+183,Nebraska,at nibh in,8,nulla sed accumsan felis ut,18,44831.81
+184,New York,sed justo pellentesque,26,quisque id justo,70,16865.15
+185,Connecticut,vestibulum sed magna,2,nulla elit ac nulla sed vel,93,33335.82
+186,Texas,elementum pellentesque,18,suscipit a feugiat,42,35245.19
+187,Texas,enim in tempor,5,curabitur convallis duis,93,42358.7
+188,Florida,suspendisse potenti cras,21,interdum venenatis turpis enim blandit mi,81,48836.58
+189,Texas,vestibulum rutrum rutrum,25,eget tincidunt eget tempus vel,32,46362.14
+190,Tennessee,metus sapien,28,fusce lacus purus aliquet,71,57099.72
+191,New York,nisi at,36,phasellus in felis donec,59,72584.89
+192,Florida,ut,3,potenti in eleifend,77,58277.85
+193,California,mauris,19,mauris ullamcorper purus sit,81,69506.62
+194,Virginia,in,49,ullamcorper purus sit amet,59,32467.94
+195,Washington,consectetuer,26,ipsum ac tellus semper interdum,63,81021.1
+196,California,pede ac,27,ut at dolor quis odio,54,85699.08
+197,Arizona,ultrices mattis,43,diam nam tristique tortor eu,63,96836.28
+198,California,ac est lacinia,8,nulla suscipit ligula in lacus,79,18772.97
+199,Iowa,penatibus et magnis,17,lectus vestibulum quam sapien varius ut,31,67928.01
+200,Tennessee,semper,21,purus phasellus in felis donec,43,86820.87
+201,California,eget tempus vel,31,vehicula condimentum curabitur in libero ut,77,28468.78
+202,Wisconsin,nibh,13,sed lacus morbi sem,31,14963.1
+203,Nebraska,sociis natoque penatibus,19,id massa id,49,82095.01
+204,New Mexico,sollicitudin vitae,46,libero nam dui proin leo odio,38,21139.79
+205,South Dakota,at ipsum ac,27,sit amet consectetuer adipiscing elit proin,78,21908.23
+206,Texas,turpis a pede,4,eget nunc donec quis orci,18,24153.12
+207,Massachusetts,turpis enim,39,maecenas tincidunt lacus at velit,100,25841.33
+208,Arizona,in hac,36,ut suscipit a,98,80337.84
+209,Virginia,eget orci vehicula,45,porttitor id consequat,98,17009.8
+210,California,quam pharetra magna,21,quis augue luctus tincidunt,52,83809.37
+211,Tennessee,curae,18,vulputate ut ultrices vel augue,66,36535.98
+212,Florida,ut,30,sit amet consectetuer adipiscing elit proin,97,13103.88
+213,Indiana,fusce consequat nulla,28,nibh fusce lacus,18,27422.12
+214,North Carolina,morbi a ipsum,15,nibh in hac habitasse platea dictumst,52,26951.71
+215,Alaska,sem sed sagittis,36,montes nascetur ridiculus mus,96,36574.73
+216,Minnesota,lectus suspendisse potenti,42,ut suscipit a feugiat et,59,79296.05
+217,Delaware,ante vel ipsum,43,felis fusce posuere,27,26650.03
+218,Washington,leo maecenas,27,blandit non interdum in ante vestibulum,34,44788.39
+219,New Mexico,sapien a libero,3,commodo placerat praesent blandit,97,16739.27
+220,Florida,ut,16,massa id lobortis convallis,98,38049.27
+221,Tennessee,mauris,27,risus praesent lectus vestibulum quam,19,56247.31
+222,California,consectetuer eget,5,congue etiam justo,86,47489.46
+223,Florida,quis libero,14,justo etiam pretium iaculis justo in,85,52023.51
+224,Virginia,id,38,augue aliquam erat volutpat,47,32700.19
+225,Utah,a suscipit,47,rutrum nulla nunc purus phasellus in,29,31198.1
+226,Arizona,fusce consequat,50,vestibulum sit amet cursus,96,16525.74
+227,California,maecenas tincidunt,25,sem duis aliquam convallis,79,77503.57
+228,Texas,euismod,10,scelerisque mauris sit amet eros suspendisse,93,63638.06
+229,Florida,penatibus et magnis,18,integer pede justo lacinia eget,25,35197.76
+230,Florida,urna ut,10,quisque arcu libero rutrum ac lobortis,26,20991.98
+231,Ohio,ipsum,28,semper interdum mauris ullamcorper,59,59592.43
+232,Virginia,tortor sollicitudin mi,11,posuere cubilia curae mauris viverra,20,24594.42
+233,South Carolina,cum sociis,43,ligula nec sem duis,31,48433.29
+234,Florida,est quam,23,pellentesque viverra pede,53,88850.79
+235,Texas,consequat,49,hac habitasse platea dictumst aliquam augue,33,99433.75
+236,California,sem sed sagittis,39,sapien arcu sed,31,29665.07
+237,Louisiana,neque sapien placerat,39,laoreet ut rhoncus aliquet,68,36416.38
+238,Minnesota,quis lectus,31,nulla facilisi cras non,75,30650.48
+239,Massachusetts,nisl ut volutpat,2,sagittis nam congue risus semper porta,79,89101.78
+240,Kentucky,quam,48,cursus id turpis,83,77825.33
+241,Kentucky,justo pellentesque viverra,26,sapien non mi,64,44567.58
+242,Arizona,mollis molestie,33,quis augue luctus tincidunt,92,17332.98
+243,Missouri,vel,49,suspendisse potenti cras,22,56437.67
+244,Kentucky,tristique tortor eu,30,vestibulum proin eu mi,25,97501.36
+245,Arizona,hac,5,amet turpis elementum ligula,38,94224.3
+246,Ohio,non interdum in,23,pede ac diam cras,78,69643.86
+247,Texas,morbi ut,44,montes nascetur ridiculus,25,33503.66
+248,California,aliquam sit,9,in quam fringilla,42,29358.99
+249,South Carolina,fusce consequat nulla,12,odio elementum eu interdum eu tincidunt,97,85658
+250,Illinois,pede libero,40,in tempus sit amet sem,89,38490.07
+251,Florida,at nunc,23,ipsum primis in faucibus orci,63,63150.77
+252,Oklahoma,sit amet,14,vulputate ut ultrices vel augue,76,16220.79
+253,New York,molestie,3,enim leo rhoncus,81,60877.57
+254,Georgia,rhoncus,3,justo in blandit ultrices enim lorem,42,64392.59
+255,Texas,semper est quam,26,eu tincidunt in leo maecenas,32,63234.4
+256,Florida,suscipit nulla,39,diam vitae quam suspendisse potenti nullam,73,50805.67
+257,Florida,blandit nam,12,enim lorem ipsum dolor sit,73,62126.6
+258,Virginia,velit nec,33,neque aenean auctor gravida sem,70,93753.86
+259,California,dolor,37,sapien sapien non mi integer ac,41,99770.13
+260,Florida,justo,38,ipsum integer a nibh in,79,99991.73
+261,New York,magna,9,curae nulla dapibus dolor vel est,96,58987.82
+262,District of Columbia,justo morbi ut,42,auctor gravida sem praesent id massa,66,29705.48
+263,Arizona,praesent lectus,41,nullam orci pede venenatis non,73,41574.04
+264,Florida,tristique,37,vel accumsan tellus nisi eu orci,58,74552.44
+265,North Carolina,suspendisse potenti in,49,suspendisse potenti nullam,82,55990.41
+266,Colorado,ut rhoncus,6,at feugiat non pretium quis,65,92230.11
+267,Tennessee,luctus,36,in leo maecenas pulvinar,60,89766.29
+268,Maryland,sapien cursus vestibulum,22,cursus vestibulum proin eu,79,40772.98
+269,Delaware,ipsum primis,30,ut erat id mauris vulputate elementum,50,37807.9
+270,Washington,rhoncus,7,consequat morbi a ipsum,39,49310.35
+271,Texas,amet,29,massa donec dapibus duis at,36,54420.2
+272,Washington,pellentesque quisque,6,cursus vestibulum proin eu mi,62,22784.9
+273,West Virginia,aliquam lacus morbi,49,ac nibh fusce lacus,53,22620.27
+274,Idaho,sit,24,sed nisl nunc,35,75086.32
+275,Texas,dui,7,eros vestibulum ac est lacinia,50,38212.49
+276,Massachusetts,primis,18,vivamus vel nulla eget eros,68,67266.2
+277,Pennsylvania,tincidunt ante vel,47,dictumst maecenas ut massa quis augue,21,48334.81
+278,Arkansas,in faucibus orci,9,ullamcorper purus sit amet,85,91700.57
+279,Florida,duis ac,38,vestibulum proin eu,42,32504.45
+280,Oregon,integer,47,elementum pellentesque quisque porta volutpat erat,46,17720.08
+281,Florida,libero non mattis,39,viverra eget congue,83,62297.8
+282,Maryland,cubilia curae,39,rhoncus aliquet pulvinar sed nisl nunc,85,20265.61
+283,Florida,ullamcorper,6,erat tortor sollicitudin mi sit amet,49,60998.4
+284,Maryland,sed tristique,34,et ultrices posuere cubilia curae donec,21,15292.53
+285,Iowa,curabitur convallis duis,34,diam erat fermentum justo nec,97,18235.86
+286,Illinois,sem,23,nisi vulputate nonummy,36,91634
+287,Florida,consequat lectus,36,justo sit amet sapien dignissim vestibulum,85,34085.56
+288,Louisiana,ligula suspendisse,38,habitasse platea dictumst etiam,27,28450.61
+289,Texas,consequat lectus,50,lacus morbi quis tortor id nulla,97,57145.74
+290,Virginia,id consequat,11,amet consectetuer adipiscing elit,48,50356.51
+291,Alaska,cras,33,velit donec diam neque,49,28449.71
+292,Wisconsin,orci luctus et,41,luctus nec molestie sed,65,14493.91
+293,California,quisque porta,37,sodales sed tincidunt,55,14627.11
+294,Massachusetts,augue aliquam,29,ullamcorper purus sit,59,43071.99
+295,Alabama,at nulla suspendisse,27,nec euismod scelerisque quam turpis,43,23837.3
+296,Alabama,ut nulla,19,iaculis justo in hac habitasse platea,70,58633.19
+297,Florida,habitasse platea,18,nibh in quis justo,50,16729.13
+298,Pennsylvania,leo odio,16,arcu adipiscing molestie,41,37197.84
+299,New York,vestibulum,18,magna vestibulum aliquet ultrices erat tortor,33,10932.32
+300,Tennessee,suscipit ligula,47,suspendisse potenti nullam,39,53273.7
+301,Maryland,faucibus orci luctus,37,primis in faucibus,41,43919.17
+302,Minnesota,sit,39,hac habitasse platea dictumst morbi,68,45346.09
+303,Colorado,id lobortis,23,magna vestibulum aliquet ultrices erat,33,21067
+304,Texas,mollis molestie,27,tincidunt in leo maecenas,30,78566.01
+305,Texas,praesent,18,eget vulputate ut ultrices vel augue,22,84260.42
+306,Colorado,enim,38,id ligula suspendisse ornare consequat lectus,43,98381.05
+307,Washington,nisl,46,tincidunt eget tempus vel pede morbi,90,67599.78
+308,Washington,quis lectus suspendisse,38,adipiscing molestie hendrerit,75,82226.56
+309,Illinois,turpis donec,35,consequat in consequat ut,39,26434.42
+310,District of Columbia,tincidunt,42,ultrices phasellus id sapien,47,14524.8
+311,Oregon,ut nulla,41,pede venenatis non,48,25002.77
+312,New York,faucibus orci,2,praesent blandit nam nulla integer pede,28,56361.44
+313,Oklahoma,ligula,44,orci luctus et ultrices posuere cubilia,60,53470.72
+314,California,accumsan tellus nisi,50,nulla pede ullamcorper augue,79,18772.53
+315,Texas,platea,19,aliquet massa id lobortis,58,76658.28
+316,Wisconsin,nulla,9,ac consequat metus,40,92398.34
+317,Georgia,sed tristique,41,sem praesent id massa id nisl,57,94388.31
+318,North Carolina,quis,36,parturient montes nascetur,46,83976.32
+319,Iowa,sit amet,49,curae nulla dapibus,52,88239.14
+320,Ohio,vel,2,diam in magna bibendum imperdiet nullam,52,85722.37
+321,West Virginia,erat quisque,2,fusce posuere felis sed,65,20015.56
+322,Florida,aliquet,42,et ultrices posuere,59,81248.56
+323,District of Columbia,vestibulum,7,metus arcu adipiscing molestie,25,73703.71
+324,Washington,quis turpis sed,30,et ultrices posuere cubilia curae duis,61,20469.74
+325,Virginia,fusce consequat nulla,43,ante vel ipsum praesent blandit lacinia,57,60969.77
+326,Ohio,morbi odio,42,egestas metus aenean fermentum,84,51829.13
+327,Colorado,tincidunt eu,46,in tempor turpis nec,40,74010.9
+328,Louisiana,sapien,31,volutpat eleifend donec,35,11627.85
+329,Alabama,consectetuer adipiscing elit,35,tortor id nulla ultrices aliquet maecenas,51,17411.37
+330,Kansas,luctus et,37,quis lectus suspendisse potenti,80,16831.37
+331,Wisconsin,quisque arcu,39,ut nunc vestibulum ante ipsum,49,85897.67
+332,Arizona,magna,34,molestie hendrerit at,94,76564.26
+333,Virginia,amet sapien,31,maecenas pulvinar lobortis est phasellus,78,70314.7
+334,Oklahoma,vulputate nonummy maecenas,15,et commodo vulputate justo,67,37670.96
+335,Indiana,in felis donec,16,maecenas tristique est,21,17566
+336,Indiana,mi sit amet,38,fermentum justo nec condimentum neque,70,42397.73
+337,Florida,ut volutpat,30,sit amet erat,20,50678.44
+338,Florida,morbi quis tortor,17,vel augue vestibulum ante,28,60920.42
+339,Texas,mattis,31,nulla quisque arcu libero rutrum,25,56786.27
+340,Massachusetts,vestibulum,34,quis orci eget orci,99,51325.88
+341,Texas,molestie lorem,18,vestibulum rutrum rutrum neque aenean,86,68324.64
+342,Iowa,nulla sed accumsan,43,mi sit amet,36,79990.03
+343,Georgia,integer,30,justo pellentesque viverra pede ac,61,83075.39
+344,North Carolina,posuere cubilia,1,enim sit amet,78,95819.53
+345,New York,parturient montes,24,nunc purus phasellus,71,97916.02
+346,California,augue luctus tincidunt,42,potenti cras in purus,85,51291.72
+347,Connecticut,nisl nunc rhoncus,13,nulla neque libero convallis,78,94393.31
+348,Oklahoma,vivamus vestibulum sagittis,24,duis at velit eu est,21,54105.62
+349,Nevada,quisque porta,27,donec ut mauris eget massa tempor,65,64204.57
+350,Louisiana,dapibus,47,curabitur at ipsum ac tellus semper,44,68051.18
+351,Oklahoma,semper rutrum,48,non sodales sed,38,44786.72
+352,Kentucky,erat,19,eu tincidunt in,29,97181.08
+353,Utah,sed sagittis nam,3,vel sem sed sagittis nam congue,82,44005.33
+354,Arizona,convallis morbi,47,sed sagittis nam,24,63263.97
+355,Alabama,nulla,19,consequat morbi a ipsum,37,83300.48
+356,Alaska,amet,27,sed ante vivamus,50,69407.1
+357,Ohio,morbi,17,convallis tortor risus dapibus augue vel,45,17437.38
+358,Connecticut,est donec odio,14,eu tincidunt in leo,48,65934.36
+359,Florida,ac tellus semper,7,id ligula suspendisse ornare consequat lectus,99,93658.19
+360,Washington,lectus vestibulum,44,justo aliquam quis,24,59079.73
+361,Wyoming,nunc,34,ante ipsum primis in faucibus,45,27217.71
+362,District of Columbia,tempor turpis nec,22,in libero ut massa volutpat,90,26492.55
+363,Texas,nec dui,2,in felis donec,66,70380.75
+364,Texas,tortor risus,30,montes nascetur ridiculus mus vivamus vestibulum,58,44961.06
+365,Indiana,dis parturient,19,enim sit amet nunc viverra,40,57460.48
+366,New York,et magnis,34,dolor vel est donec odio,26,57769.18
+367,Florida,ultricies eu nibh,34,libero rutrum ac,47,29361.01
+368,New York,malesuada in imperdiet,35,orci luctus et ultrices posuere cubilia,50,83909.23
+369,North Carolina,vestibulum vestibulum ante,3,sit amet sem fusce consequat,71,48927.25
+370,Colorado,nulla,10,interdum mauris non ligula,92,69050.41
+371,Hawaii,luctus tincidunt nulla,43,amet consectetuer adipiscing elit proin,98,22909.22
+372,Florida,luctus et ultrices,33,adipiscing molestie hendrerit at vulputate,29,59396.57
+373,Texas,ac diam,45,platea dictumst maecenas ut,50,28147.29
+374,California,amet,45,nisi eu orci mauris,87,54235.22
+375,Pennsylvania,donec vitae,28,primis in faucibus orci luctus,43,16217.97
+376,Missouri,donec,43,non mauris morbi non lectus aliquam,27,89897.34
+377,New York,cum sociis,42,sagittis nam congue risus semper porta,67,24140.04
+378,Tennessee,libero nullam,41,bibendum imperdiet nullam orci,86,35624.06
+379,Alabama,et ultrices posuere,30,turpis adipiscing lorem vitae,77,73191.95
+380,Washington,suscipit ligula,4,dignissim vestibulum vestibulum ante,28,50363.77
+381,Missouri,a,11,quis justo maecenas rhoncus aliquam,89,75526.32
+382,South Carolina,vel augue vestibulum,3,pellentesque viverra pede ac diam cras,51,42361.08
+383,Texas,ipsum primis,35,in quam fringilla rhoncus,83,24385.48
+384,Kansas,justo,12,ut ultrices vel augue,59,27741.68
+385,New York,sit,45,quam pede lobortis,79,78350.28
+386,Colorado,sagittis nam,46,maecenas rhoncus aliquam,43,34591.66
+387,Missouri,mauris enim leo,10,suscipit a feugiat et eros,77,73186.27
+388,California,pede posuere,6,etiam pretium iaculis justo in,40,77280
+389,Kansas,pretium nisl ut,32,est risus auctor,29,51947.96
+390,Pennsylvania,etiam,20,ac diam cras pellentesque,25,27426.98
+391,Texas,eget,7,ipsum aliquam non mauris,47,59509.95
+392,New York,bibendum felis sed,18,velit vivamus vel nulla eget eros,65,20899.01
+393,New York,donec,26,ultrices posuere cubilia curae duis faucibus,89,15960.27
+394,Florida,erat quisque,30,nascetur ridiculus mus vivamus,54,75399.18
+395,California,hac habitasse,27,libero quis orci nullam molestie nibh,62,30767.75
+396,West Virginia,donec,8,vivamus tortor duis,56,95968.98
+397,Florida,velit donec diam,21,scelerisque mauris sit amet,68,48528.72
+398,Pennsylvania,pharetra magna,40,lobortis vel dapibus at diam nam,66,13939.89
+399,Kansas,amet consectetuer adipiscing,14,lectus in quam fringilla rhoncus mauris,88,87238.08
+400,Texas,convallis duis,8,maecenas ut massa quis augue,75,30483.1
+401,Louisiana,felis fusce posuere,38,ligula vehicula consequat morbi,26,61601.2
+402,Colorado,vel,27,luctus et ultrices posuere cubilia curae,21,27351.94
+403,Georgia,quisque porta,10,donec diam neque,68,18603.52
+404,Iowa,nam,38,hac habitasse platea,37,46007.89
+405,Virginia,sapien,6,neque libero convallis,35,68621.15
+406,Kentucky,volutpat convallis morbi,3,ut dolor morbi vel lectus,88,44106.29
+407,California,tristique fusce congue,47,nam nulla integer pede justo lacinia,60,23365.16
+408,Virginia,ligula nec,46,sit amet cursus id,76,66074.69
+409,South Carolina,ac nulla sed,17,sapien ut nunc vestibulum ante,28,82296.41
+410,Indiana,nunc commodo,10,curae duis faucibus accumsan odio curabitur,82,46013.93
+411,Florida,nascetur ridiculus mus,42,justo in hac,77,92159.85
+412,Pennsylvania,turpis elementum ligula,14,nulla suspendisse potenti cras in,37,54778.28
+413,Georgia,sapien dignissim,12,ante vestibulum ante ipsum primis,81,47752.93
+414,New York,fringilla,50,eu magna vulputate luctus cum sociis,99,27472.06
+415,Virginia,cum sociis,6,duis ac nibh fusce lacus,83,33060.73
+416,Illinois,convallis,10,ac lobortis vel dapibus at,90,44398.02
+417,Arkansas,elit,3,dui proin leo odio porttitor id,98,24189.12
+418,Texas,mus vivamus vestibulum,13,mauris morbi non lectus,51,44223.79
+419,Idaho,nullam sit,24,duis mattis egestas metus aenean,74,42648.02
+420,Florida,id luctus,48,tortor sollicitudin mi sit amet lobortis,95,14744.38
+421,Colorado,dictumst maecenas,20,erat volutpat in congue etiam justo,21,61537.85
+422,Ohio,in,39,aenean lectus pellentesque eget nunc donec,37,51118.36
+423,Connecticut,nam,34,dapibus nulla suscipit ligula in lacus,34,52581.11
+424,Mississippi,dui maecenas,31,metus aenean fermentum donec ut mauris,38,48762.71
+425,Georgia,eget eleifend luctus,29,sit amet justo,31,48917.06
+426,Minnesota,nulla,43,vestibulum vestibulum ante,84,74723.5
+427,West Virginia,vestibulum,28,molestie sed justo pellentesque viverra,90,81412.3
+428,South Carolina,pretium,13,mi pede malesuada,73,44101.96
+429,New York,felis,6,dictumst aliquam augue quam sollicitudin,73,48981.29
+430,New York,ipsum praesent blandit,19,auctor sed tristique,95,20937.3
+431,Virginia,leo maecenas,21,lectus suspendisse potenti in eleifend quam,84,80314.21
+432,New York,rhoncus dui,1,dictumst morbi vestibulum velit id,99,81106.65
+433,Iowa,at nulla suspendisse,14,ut nulla sed,57,33412.16
+434,Florida,nulla,43,nunc nisl duis bibendum felis sed,29,43002.09
+435,North Carolina,imperdiet,44,massa id nisl venenatis lacinia aenean,89,52170.68
+436,New York,rhoncus,10,vel nulla eget eros elementum,79,27281.45
+437,California,sollicitudin,7,interdum mauris ullamcorper purus sit amet,91,16003.67
+438,California,vivamus metus,4,nullam molestie nibh in,79,58776.55
+439,Texas,phasellus,14,duis at velit eu est,46,69749.46
+440,Florida,odio,40,sapien iaculis congue vivamus,38,55313.27
+441,Mississippi,ultrices erat tortor,13,sapien non mi integer ac,55,55124.42
+442,Kansas,elementum ligula,44,etiam pretium iaculis justo,38,67652.5
+443,Minnesota,id mauris,5,eget eros elementum pellentesque quisque,90,12107.64
+444,North Carolina,curabitur at ipsum,10,pellentesque quisque porta volutpat erat,77,20867.32
+445,Massachusetts,ligula sit,26,lobortis convallis tortor,40,15405.65
+446,Florida,pede libero,43,est donec odio,74,96367.55
+447,Washington,justo aliquam quis,11,platea dictumst morbi vestibulum velit,34,88487.49
+448,California,elementum nullam,49,diam id ornare imperdiet sapien,80,29751.41
+449,California,sapien a,12,magnis dis parturient,18,15397.54
+450,Texas,aliquam,48,at nulla suspendisse,71,57003
+451,California,a suscipit,36,nullam molestie nibh in lectus,62,33479
+452,California,gravida nisi at,10,vestibulum ante ipsum,33,95474.07
+453,Florida,diam id,48,lectus pellentesque eget nunc donec quis,88,72844.67
+454,New Jersey,in hac habitasse,3,non ligula pellentesque ultrices phasellus,23,16303.85
+455,Maryland,non ligula pellentesque,39,sed nisl nunc rhoncus dui,31,26519
+456,Idaho,vulputate,11,quam a odio in hac habitasse,75,92346.77
+457,Wyoming,primis,45,ac est lacinia,98,38275.42
+458,Michigan,dapibus,30,dui vel nisl duis ac nibh,31,44362.23
+459,Maryland,volutpat erat,20,urna ut tellus nulla,60,63081.01
+460,Nebraska,eu massa,2,adipiscing lorem vitae mattis,49,83861.33
+461,New York,tempus,2,ornare imperdiet sapien,95,99517.67
+462,New Mexico,ultrices phasellus id,6,diam cras pellentesque,46,65519.16
+463,Washington,elit proin,39,quam suspendisse potenti nullam,38,72916.83
+464,Missouri,nulla suspendisse potenti,45,justo lacinia eget tincidunt eget,59,34260.85
+465,Texas,elementum,19,nibh quisque id justo sit amet,56,47024.63
+466,Louisiana,tortor,24,a nibh in,77,10124.21
+467,California,magna,7,magnis dis parturient,55,56170.99
+468,Iowa,augue vel accumsan,39,aliquam sit amet diam in,88,27021.21
+469,Texas,faucibus,41,etiam faucibus cursus urna,55,59242.94
+470,District of Columbia,sit amet erat,14,at ipsum ac tellus semper interdum,73,11882.93
+471,Georgia,sit amet eros,19,consectetuer adipiscing elit,58,57789.62
+472,District of Columbia,amet diam in,10,luctus cum sociis natoque,50,35413.21
+473,Kansas,volutpat sapien arcu,44,in imperdiet et,51,35607.55
+474,Florida,vulputate luctus,1,orci pede venenatis non,46,79628.78
+475,Texas,turpis donec posuere,19,iaculis justo in hac habitasse platea,54,13466.22
+476,Virginia,ut dolor,7,nonummy integer non velit donec diam,29,10680.43
+477,New York,accumsan,20,pulvinar sed nisl,18,57283.09
+478,Florida,parturient montes nascetur,31,malesuada in imperdiet,83,61731.67
+479,District of Columbia,cras,7,maecenas leo odio condimentum id,46,98329.07
+480,Texas,sem duis aliquam,48,in consequat ut nulla,40,24246.71
+481,North Carolina,lorem quisque ut,34,proin risus praesent lectus,25,10301.84
+482,Iowa,eu,32,posuere felis sed lacus morbi,98,78223.71
+483,West Virginia,nunc proin,40,habitasse platea dictumst,41,39498.66
+484,Connecticut,vel,13,vestibulum rutrum rutrum neque aenean,36,51667.56
+485,North Carolina,pellentesque viverra,17,leo rhoncus sed vestibulum,64,39867.46
+486,Georgia,interdum mauris ullamcorper,27,sed ante vivamus tortor duis,71,88624.49
+487,Texas,faucibus orci luctus,35,in hac habitasse platea dictumst,35,43267.63
+488,Wisconsin,vitae ipsum,2,quis justo maecenas rhoncus aliquam lacus,33,77592.48
+489,Louisiana,quis,36,molestie sed justo pellentesque viverra pede,70,92325.92
+490,Minnesota,amet,14,pellentesque eget nunc,20,43407.81
+491,California,ultrices posuere,28,sagittis nam congue risus semper,26,13922.66
+492,Rhode Island,massa,30,enim in tempor turpis nec euismod,56,62027.44
+493,California,nisl nunc,34,congue risus semper porta,51,34010.02
+494,Texas,cum sociis,26,erat fermentum justo nec,37,52074.89
+495,Florida,ante ipsum,49,cras mi pede malesuada in imperdiet,82,19116.04
+496,Michigan,nullam,16,maecenas tincidunt lacus at,95,48856.59
+497,North Dakota,nulla elit ac,48,volutpat erat quisque erat eros,35,24581.68
+498,New Jersey,lorem vitae mattis,25,sapien a libero nam,54,13325.2
+499,Texas,non velit,44,lobortis est phasellus,34,14661.78
+500,Texas,morbi,43,mauris vulputate elementum nullam varius nulla,35,23406.29
+501,South Dakota,mauris eget,31,vestibulum ac est lacinia nisi venenatis,68,21212.65
+502,Kansas,sed,4,platea dictumst etiam,99,52200.97
+503,New York,ac lobortis vel,21,turpis a pede posuere nonummy integer,93,22203.9
+504,Nebraska,commodo placerat praesent,43,id turpis integer aliquet massa,74,35346.6
+505,New Jersey,ac consequat metus,37,laoreet ut rhoncus,89,97037.3
+506,Georgia,dolor quis,4,luctus ultricies eu nibh quisque id,88,48604.16
+507,Connecticut,dui vel,2,viverra diam vitae quam suspendisse,63,80965.43
+508,Texas,eu interdum eu,1,consequat morbi a ipsum integer a,61,38106.32
+509,Texas,risus praesent lectus,44,lorem integer tincidunt,89,43885.03
+510,North Carolina,eget tincidunt,2,vivamus metus arcu,64,99733.19
+511,Washington,sit amet,44,bibendum morbi non quam nec dui,78,99910.23
+512,Louisiana,erat curabitur gravida,19,duis bibendum felis sed,100,61258.03
+513,California,auctor gravida,43,duis aliquam convallis nunc proin at,82,43531.32
+514,New York,a pede posuere,27,lacinia nisi venenatis tristique fusce,22,90633.73
+515,Ohio,curae,29,nec condimentum neque sapien placerat,85,96854.88
+516,North Carolina,donec odio justo,11,suscipit ligula in lacus curabitur,100,64731.62
+517,Michigan,vel augue vestibulum,44,massa quis augue luctus,39,37827.97
+518,Florida,mus,20,diam vitae quam,32,57253.08
+519,Virginia,condimentum neque,2,posuere metus vitae ipsum aliquam,72,10745.62
+520,District of Columbia,quam turpis,23,aliquet maecenas leo odio condimentum,43,72072.99
+521,Ohio,lacus morbi,30,amet justo morbi ut odio,29,69321.52
+522,New Jersey,vel lectus,2,eget vulputate ut,29,84798.35
+523,Oklahoma,nunc proin at,19,duis bibendum morbi,44,13391.25
+524,Virginia,massa,8,odio curabitur convallis duis consequat,27,56678
+525,Tennessee,vivamus tortor duis,30,gravida nisi at,44,10651.03
+526,Hawaii,posuere,42,cubilia curae mauris viverra diam vitae,61,77784.08
+527,North Carolina,imperdiet nullam orci,34,quisque ut erat,43,78948.46
+528,Pennsylvania,libero,21,congue eget semper rutrum,57,15534.25
+529,Tennessee,ultrices phasellus,46,erat quisque erat eros viverra eget,88,92057.26
+530,New York,morbi,24,ac lobortis vel dapibus,68,80765.59
+531,Alabama,sed,25,augue quam sollicitudin,66,81641.81
+532,Florida,leo,20,leo odio porttitor,54,69945.86
+533,Arizona,elementum ligula,18,ligula pellentesque ultrices phasellus,24,42751.38
+534,New York,etiam,42,nam tristique tortor,100,79095.58
+535,Virginia,curae,37,lorem ipsum dolor sit amet consectetuer,68,93703.71
+536,Ohio,odio consequat varius,39,quisque arcu libero rutrum,42,95557.85
+537,Illinois,id justo,8,duis consequat dui nec nisi,20,50691.91
+538,Pennsylvania,dis,34,est lacinia nisi venenatis,81,95986.1
+539,Virginia,nibh fusce,13,sem fusce consequat nulla nisl,69,38777
+540,Maryland,maecenas rhoncus aliquam,34,morbi quis tortor id,25,88838.44
+541,Minnesota,lorem ipsum,44,suspendisse potenti nullam,64,42366.53
+542,New York,nunc donec,46,vestibulum eget vulputate,89,40787.54
+543,Texas,id sapien in,21,eu nibh quisque id,87,27133.98
+544,California,ipsum primis in,31,ipsum dolor sit amet,73,11190.99
+545,Michigan,in quam,41,vehicula condimentum curabitur in libero,41,54987.29
+546,Texas,donec ut,29,quisque porta volutpat erat quisque,65,13455.34
+547,New Mexico,nisi nam ultrices,40,vitae nisi nam ultrices libero non,83,17235.01
+548,Michigan,elementum ligula,42,dolor sit amet consectetuer adipiscing,75,21384.38
+549,Texas,nulla eget eros,30,duis ac nibh,92,78516.17
+550,Maryland,sed magna at,6,quam nec dui luctus rutrum nulla,61,74230.64
+551,Virginia,lorem integer tincidunt,18,ut erat curabitur gravida nisi,100,89732.64
+552,District of Columbia,tristique in tempus,32,nulla justo aliquam quis,28,23692.84
+553,District of Columbia,in felis eu,21,vel pede morbi,82,61908.85
+554,Missouri,duis mattis,33,enim blandit mi in porttitor pede,44,99163.61
+555,Colorado,nibh,49,quis augue luctus,67,24058.04
+556,Kentucky,ligula,12,pede venenatis non,90,87564.65
+557,Oregon,est,3,duis bibendum felis,47,94463.83
+558,Colorado,iaculis diam erat,32,orci pede venenatis non sodales,92,48149.84
+559,Texas,ut,3,ultrices erat tortor sollicitudin,20,70290.56
+560,Tennessee,consequat dui,47,libero quis orci,49,82705.3
+561,Florida,ultrices,21,natoque penatibus et,66,17578.42
+562,Florida,magnis dis parturient,8,nulla eget eros elementum,84,85511.2
+563,New York,vel pede morbi,42,dolor sit amet,31,93792.94
+564,Ohio,morbi,22,quis turpis sed,99,58481.45
+565,Idaho,id pretium iaculis,15,tempor convallis nulla neque libero convallis,87,64416.37
+566,Texas,ut,50,turpis eget elit sodales scelerisque,46,52326.86
+567,North Dakota,sapien,43,orci nullam molestie nibh in,18,71072.64
+568,New Mexico,suspendisse potenti nullam,22,mi pede malesuada in imperdiet,77,30726.17
+569,Michigan,interdum venenatis turpis,20,erat fermentum justo nec,84,81603.58
+570,Idaho,habitasse platea,35,faucibus orci luctus et,84,49772.3
+571,Nebraska,rhoncus aliquam lacus,42,proin risus praesent,73,80268.88
+572,Nebraska,congue vivamus,41,rutrum rutrum neque,56,44558.62
+573,Delaware,eu felis fusce,32,pharetra magna ac consequat,53,11125.27
+574,Tennessee,aliquet,3,pulvinar sed nisl nunc rhoncus,29,32851.28
+575,Florida,turpis,43,sapien sapien non mi integer ac,19,47709.86
+576,New York,morbi non,4,porta volutpat quam,19,18789.57
+577,Texas,posuere nonummy integer,15,venenatis non sodales sed tincidunt eu,83,87068.62
+578,Connecticut,integer tincidunt,10,dapibus duis at velit,89,74591.52
+579,Virginia,in congue etiam,31,ac nibh fusce lacus purus aliquet,60,47076.6
+580,Ohio,adipiscing molestie,26,ac diam cras pellentesque volutpat,34,87661.6
+581,Oregon,nascetur,10,leo pellentesque ultrices mattis,49,81684.12
+582,Oregon,in porttitor,39,commodo placerat praesent blandit nam,49,19873.77
+583,Ohio,tempus sit amet,30,odio curabitur convallis duis,33,99108.69
+584,Kentucky,lectus vestibulum,1,maecenas tristique est et tempus semper,26,37241.49
+585,New York,lobortis convallis,17,interdum mauris non ligula pellentesque,89,50966.28
+586,Virginia,magnis dis parturient,46,curae mauris viverra diam vitae quam,57,95817.74
+587,New York,vel accumsan,27,eu mi nulla ac,82,44791.48
+588,Indiana,duis bibendum felis,10,a feugiat et eros,25,58903.08
+589,Ohio,vestibulum ac est,41,vivamus metus arcu adipiscing molestie hendrerit,47,65243.52
+590,Texas,leo odio porttitor,14,felis sed interdum,81,49575.99
+591,Tennessee,tellus,15,urna pretium nisl ut volutpat sapien,80,35800.02
+592,Pennsylvania,sapien,25,vehicula condimentum curabitur,55,38534.04
+593,California,justo,2,enim lorem ipsum dolor sit amet,87,29394.21
+594,Texas,potenti nullam,38,accumsan tellus nisi eu orci mauris,61,85193.67
+595,Arizona,justo in hac,4,elementum eu interdum eu,90,40059.78
+596,California,nulla integer,40,nulla suspendisse potenti,36,48449.6
+597,Georgia,bibendum imperdiet,27,vivamus tortor duis mattis egestas metus,99,22691.39
+598,Connecticut,donec dapibus,42,sem mauris laoreet,57,23599.41
+599,Illinois,diam,40,sapien non mi integer ac neque,87,63199.48
+600,Nebraska,massa tempor,24,sit amet sapien dignissim,85,61856.64
+601,Pennsylvania,nulla sed,42,in libero ut massa volutpat,54,61753.69
+602,Arizona,diam id,11,odio in hac habitasse platea dictumst,86,84501.06
+603,Hawaii,dictumst etiam faucibus,49,vel sem sed,33,86719.36
+604,New Jersey,nibh in,11,rutrum nulla nunc,82,51072.46
+605,Texas,odio,15,amet nulla quisque arcu libero rutrum,84,30048.15
+606,Missouri,integer tincidunt ante,6,donec ut dolor morbi vel,40,81114.3
+607,Missouri,cursus,5,elementum nullam varius,40,83209.6
+608,New York,at diam,11,mauris sit amet,58,53774.1
+609,Texas,sit amet turpis,43,eget elit sodales scelerisque,73,91481.5
+610,South Carolina,blandit mi,30,sodales sed tincidunt eu felis,54,61490.25
+611,New York,vehicula condimentum,37,elementum pellentesque quisque,98,71380.2
+612,Virginia,odio,3,sapien sapien non mi,80,61883.04
+613,Ohio,in,32,nulla tellus in sagittis dui,57,97090.49
+614,Utah,suspendisse accumsan tortor,2,urna ut tellus nulla ut,39,30110.89
+615,California,tincidunt nulla mollis,46,vestibulum ante ipsum,82,10860.79
+616,Michigan,convallis nunc proin,49,vitae consectetuer eget rutrum at,41,94089.48
+617,California,placerat ante nulla,6,vel dapibus at diam,62,11767.48
+618,District of Columbia,felis eu sapien,49,duis bibendum felis sed interdum,66,92411.92
+619,Florida,justo,10,nisi eu orci mauris lacinia sapien,80,45599.86
+620,Ohio,tempus sit,26,amet lobortis sapien sapien non,75,18103.53
+621,Louisiana,morbi non,25,amet sem fusce,37,60203.83
+622,District of Columbia,libero ut,45,vestibulum ac est,67,83393.64
+623,Florida,volutpat,49,dolor sit amet consectetuer adipiscing elit,29,90096.58
+624,Massachusetts,augue vestibulum,5,elit proin interdum mauris non ligula,69,86376.6
+625,Tennessee,blandit,3,nulla neque libero convallis,85,69024.97
+626,Pennsylvania,et eros vestibulum,38,et ultrices posuere cubilia,65,66221.14
+627,New York,hac habitasse platea,30,parturient montes nascetur ridiculus mus,44,77232.44
+628,Colorado,in lectus pellentesque,19,elit proin risus praesent,22,12120.52
+629,Iowa,turpis nec euismod,47,nulla quisque arcu libero rutrum,51,44086.65
+630,Texas,id nisl venenatis,6,duis aliquam convallis nunc proin at,43,91335.69
+631,Texas,velit,45,in hac habitasse,85,20955.02
+632,Maryland,in purus,37,orci vehicula condimentum curabitur in,24,49470.69
+633,Pennsylvania,volutpat,11,ipsum primis in,88,65762.86
+634,Kansas,diam cras pellentesque,1,morbi non quam nec,71,22994.78
+635,California,donec posuere,50,turpis sed ante vivamus tortor duis,58,80224.55
+636,Tennessee,ac,24,eget semper rutrum nulla nunc purus,72,89958.57
+637,Ohio,donec,30,morbi non quam,32,97238.65
+638,Georgia,lacinia eget,28,non mi integer ac neque duis,33,25322.3
+639,California,lobortis,17,aliquet maecenas leo odio condimentum id,62,11599.8
+640,Colorado,adipiscing lorem,14,sed nisl nunc rhoncus dui,85,86890.63
+641,Florida,at velit vivamus,27,nam tristique tortor eu,42,33158.47
+642,Virginia,quam suspendisse potenti,47,at nibh in hac habitasse,20,12063.59
+643,Arizona,viverra diam vitae,3,ut massa quis augue luctus tincidunt,85,94512.66
+644,Hawaii,ligula,18,amet lobortis sapien sapien non,32,51810.92
+645,Florida,purus eu magna,39,rutrum neque aenean auctor gravida,65,38603.76
+646,Illinois,quis odio consequat,27,quisque ut erat,79,92049.07
+647,Pennsylvania,eu orci mauris,18,sagittis dui vel nisl duis ac,90,21595.94
+648,Nebraska,elementum,28,luctus et ultrices posuere,39,40569.13
+649,California,in consequat ut,16,natoque penatibus et magnis dis parturient,43,97351.68
+650,New York,gravida sem praesent,10,amet diam in magna bibendum imperdiet,27,44756.19
+651,Virginia,eu pede,14,libero nullam sit amet,97,60048.78
+652,Georgia,amet,23,at velit eu,68,70850.2
+653,North Carolina,duis,30,ultrices posuere cubilia,46,91017.34
+654,Missouri,blandit lacinia,27,potenti cras in purus eu,88,12360.4
+655,Wisconsin,integer aliquet,48,pede justo eu massa donec dapibus,82,84697.25
+656,South Carolina,bibendum,48,lacus at velit,94,47871.37
+657,Florida,habitasse,31,consequat dui nec nisi volutpat,37,42767.37
+658,Indiana,eu,26,erat curabitur gravida nisi at,18,15948
+659,New York,nibh in hac,5,in purus eu,52,16590.69
+660,Wisconsin,nec dui,3,justo pellentesque viverra pede ac diam,66,97341
+661,Texas,erat quisque erat,18,rutrum nulla nunc purus,61,80617.47
+662,Nevada,vel est,9,vestibulum velit id pretium iaculis diam,98,14713.94
+663,Washington,metus vitae,34,sit amet lobortis,83,91165.96
+664,Georgia,ac est lacinia,46,congue etiam justo etiam,83,27092.19
+665,Arizona,mi in porttitor,17,nulla suscipit ligula in lacus curabitur,91,64339.08
+666,Illinois,neque,29,nulla justo aliquam quis turpis eget,42,91444.44
+667,Texas,vel est,40,odio curabitur convallis,47,77921.56
+668,Georgia,nascetur ridiculus mus,18,vel dapibus at diam nam tristique,41,10102.79
+669,Texas,placerat,21,curabitur at ipsum ac tellus semper,33,17668.83
+670,Ohio,odio condimentum id,39,habitasse platea dictumst aliquam,27,44071.82
+671,Pennsylvania,dignissim vestibulum vestibulum,39,duis ac nibh fusce lacus purus,27,83533.05
+672,North Carolina,lacus at,8,eget congue eget semper rutrum,94,16473.85
+673,Michigan,ante,3,justo lacinia eget tincidunt eget,25,84120.22
+674,Ohio,eu mi,44,felis ut at dolor quis odio,48,47645.18
+675,Arizona,sit amet eleifend,6,in leo maecenas pulvinar lobortis,71,87680.21
+676,Oklahoma,elementum nullam,10,eget semper rutrum nulla nunc,65,14481.25
+677,Texas,ut odio cras,29,blandit non interdum in,23,17425.48
+678,Tennessee,in hac,37,est phasellus sit amet,95,49971.72
+679,Texas,non sodales,33,vehicula condimentum curabitur in libero,24,67255.52
+680,Iowa,justo,47,porttitor lacus at,35,46671.4
+681,Texas,amet sapien,47,turpis nec euismod scelerisque,57,86781.24
+682,District of Columbia,vitae,37,nulla neque libero convallis eget,54,50480.49
+683,Virginia,faucibus accumsan odio,29,quis turpis sed ante vivamus tortor,38,75664.97
+684,California,mi,18,at ipsum ac tellus,75,47202.22
+685,Arkansas,odio,30,cras non velit nec,52,33437.77
+686,Missouri,molestie sed justo,31,neque vestibulum eget vulputate ut ultrices,31,62359.95
+687,Texas,odio,42,cum sociis natoque,78,52181.65
+688,Nebraska,habitasse platea dictumst,19,porta volutpat quam pede,60,89353.21
+689,Florida,nulla,3,blandit nam nulla integer pede,93,60118.52
+690,Maryland,nulla nisl,37,suspendisse potenti nullam porttitor lacus,100,25720.9
+691,Texas,consequat nulla,45,vitae nisl aenean lectus pellentesque eget,44,16479.51
+692,Indiana,non,24,ipsum aliquam non mauris,78,76968.24
+693,California,ligula,17,erat nulla tempus vivamus in felis,47,22222.68
+694,Florida,in felis donec,33,nonummy integer non velit donec diam,63,27329.27
+695,Florida,in,10,suspendisse potenti nullam porttitor,45,74906.55
+696,Pennsylvania,volutpat,50,maecenas tincidunt lacus at,92,90320.47
+697,Tennessee,mauris viverra diam,5,pretium iaculis diam,49,34306.57
+698,South Dakota,varius nulla facilisi,5,sem mauris laoreet ut,92,64953.79
+699,Texas,ipsum,3,vitae nisl aenean lectus,75,79954.67
+700,Maryland,sit amet,10,mattis nibh ligula nec sem duis,45,38542.96
+701,New York,rutrum nulla nunc,4,rhoncus dui vel sem,63,57685.92
+702,Texas,placerat,38,luctus et ultrices posuere,26,79729.25
+703,California,nam,22,fermentum donec ut,26,37681.63
+704,Virginia,turpis sed ante,36,curabitur in libero ut massa volutpat,64,80572.85
+705,District of Columbia,mauris,49,primis in faucibus orci luctus,29,33247.85
+706,New York,libero ut massa,39,ligula nec sem duis,35,51212.27
+707,California,sagittis nam,25,donec vitae nisi nam ultrices,91,30348.09
+708,Wisconsin,eget tempus vel,26,consectetuer adipiscing elit,75,52279.86
+709,Illinois,integer ac neque,47,mattis pulvinar nulla pede ullamcorper,57,54518.52
+710,Florida,justo in blandit,25,euismod scelerisque quam,34,35092.42
+711,Minnesota,a,46,quis turpis sed ante vivamus,56,28408.42
+712,New York,in faucibus,12,orci luctus et ultrices posuere cubilia,74,90759.78
+713,Alaska,aliquam non mauris,47,turpis integer aliquet,43,16409
+714,Pennsylvania,felis,18,ullamcorper purus sit,83,49685.05
+715,Minnesota,quam a odio,40,morbi non quam nec dui luctus,81,22777.39
+716,Connecticut,eget rutrum,46,purus phasellus in felis donec semper,98,69709.14
+717,Maryland,ac leo,37,accumsan tortor quis turpis sed ante,41,50731.22
+718,North Carolina,viverra,40,cras pellentesque volutpat,34,92431.92
+719,New York,vestibulum aliquet,18,magnis dis parturient montes nascetur,43,13261.26
+720,California,sagittis,27,vestibulum rutrum rutrum neque aenean auctor,57,64510.56
+721,Virginia,consectetuer eget,25,vitae nisi nam ultrices,28,38363.23
+722,Florida,sodales sed tincidunt,18,ligula vehicula consequat morbi,83,85666.45
+723,Indiana,urna ut tellus,43,lacinia erat vestibulum sed,63,34802.35
+724,Wisconsin,felis sed,46,vel est donec odio,49,79329.67
+725,Kansas,parturient,48,sapien quis libero nullam,95,28347.26
+726,Maine,condimentum id,8,donec quis orci eget orci,60,38997.95
+727,Kentucky,ante,2,vestibulum ante ipsum primis in,74,99330.36
+728,Nevada,tempor,31,vitae mattis nibh ligula,46,10463.98
+729,Texas,nulla elit,28,praesent blandit nam,88,38270.52
+730,Iowa,cursus id,18,ac nibh fusce lacus purus,77,18817.71
+731,Texas,sed ante vivamus,36,potenti cras in purus,69,79258.49
+732,Florida,amet,46,lorem id ligula suspendisse ornare,22,42806.31
+733,Illinois,imperdiet sapien urna,25,posuere cubilia curae mauris viverra diam,33,26556.34
+734,Florida,ipsum dolor,33,sollicitudin mi sit amet lobortis,37,52164.22
+735,Pennsylvania,viverra dapibus,35,lobortis ligula sit,29,40596.53
+736,Virginia,platea dictumst,6,ipsum ac tellus semper interdum,30,33835.65
+737,Virginia,cras mi pede,49,feugiat non pretium,86,25444.68
+738,Minnesota,ipsum,30,turpis adipiscing lorem,66,74929.15
+739,Texas,nam,29,ac tellus semper interdum,37,21494.05
+740,Arizona,quisque porta,14,vitae ipsum aliquam non,26,92610.59
+741,Louisiana,luctus nec,43,aliquam convallis nunc,98,85091.37
+742,Oklahoma,magna,4,sodales scelerisque mauris sit,63,70682.64
+743,New York,sed,37,vulputate nonummy maecenas tincidunt lacus,25,48720.61
+744,Texas,ligula vehicula,28,elit ac nulla sed vel,86,81623.61
+745,Louisiana,non,14,amet eros suspendisse accumsan,44,62815.4
+746,North Dakota,ac,46,blandit non interdum,29,71508.43
+747,New Jersey,pede venenatis,47,cum sociis natoque penatibus,23,27766.2
+748,California,vel augue vestibulum,5,pede venenatis non sodales sed tincidunt,20,18895.74
+749,Kansas,vestibulum vestibulum,11,vestibulum eget vulputate ut,80,52563.4
+750,Wisconsin,sit amet sem,32,felis eu sapien cursus vestibulum,85,30268.6
+751,Illinois,sit amet,8,pharetra magna ac consequat metus sapien,58,67303.76
+752,Minnesota,libero convallis,50,suscipit nulla elit,68,18532.54
+753,New York,lacus purus,44,neque duis bibendum morbi non quam,52,76865.51
+754,California,montes,33,magna at nunc commodo placerat,27,82997.67
+755,New Jersey,velit donec,18,nunc donec quis,81,49872.81
+756,Pennsylvania,amet cursus id,20,elementum pellentesque quisque porta volutpat,25,86246.36
+757,Texas,parturient,2,mollis molestie lorem quisque ut,26,87113.16
+758,Minnesota,eget rutrum,37,ut at dolor quis,83,93302.99
+759,Tennessee,est phasellus,22,justo nec condimentum neque sapien placerat,21,30868.74
+760,Alabama,ultricies,39,erat volutpat in congue etiam justo,86,69855.75
+761,Arkansas,at ipsum ac,4,parturient montes nascetur ridiculus,21,92470.4
+762,New Hampshire,etiam vel,38,tempor convallis nulla neque libero,29,82975.33
+763,California,duis,5,vestibulum ante ipsum,71,29925.53
+764,Arizona,donec posuere metus,45,sapien a libero nam dui,79,27829.56
+765,District of Columbia,vivamus vel,11,nulla sed vel enim,32,81853.47
+766,Texas,aliquet,19,pede ullamcorper augue a suscipit nulla,62,48499.38
+767,Florida,vel lectus,28,dui vel nisl duis ac,25,45306.23
+768,Michigan,maecenas,47,erat eros viverra eget congue eget,46,32055.93
+769,Louisiana,volutpat,31,erat eros viverra eget congue,77,11587.51
+770,Florida,neque,44,mattis egestas metus aenean fermentum donec,52,63176.2
+771,California,nunc viverra,38,risus praesent lectus,47,91749.63
+772,California,eu,10,non mattis pulvinar nulla,54,20422.47
+773,Ohio,dictumst etiam,36,blandit ultrices enim lorem ipsum dolor,61,23654.49
+774,Florida,massa quis,32,pede venenatis non,100,52865.91
+775,Washington,erat,45,eu felis fusce posuere,84,28172.67
+776,Wisconsin,massa,34,dui luctus rutrum nulla,61,74260.95
+777,Texas,in,21,potenti cras in purus eu,93,96684
+778,Ohio,nulla ut,26,mus vivamus vestibulum sagittis sapien,82,89206.17
+779,Texas,convallis duis,44,tincidunt lacus at,68,22345.85
+780,California,interdum mauris ullamcorper,28,tempus vel pede morbi,83,19987.97
+781,Texas,habitasse platea,49,sollicitudin vitae consectetuer eget,57,16359.74
+782,Colorado,ante vivamus tortor,48,velit id pretium iaculis diam erat,39,98409.24
+783,Ohio,consequat,21,lorem vitae mattis nibh ligula nec,60,70019.93
+784,New York,condimentum id luctus,26,egestas metus aenean fermentum,57,57189.37
+785,California,lobortis,32,neque aenean auctor,88,42036.42
+786,Texas,vulputate,27,vestibulum proin eu mi nulla,49,17042.56
+787,Tennessee,dictumst,36,dapibus at diam nam tristique tortor,22,21633.36
+788,Michigan,sit,33,quis odio consequat varius integer,52,32232.63
+789,Washington,non sodales sed,32,dictumst maecenas ut,99,97205.82
+790,Montana,ante ipsum,8,aenean lectus pellentesque eget nunc,92,62779.73
+791,North Carolina,ac tellus,40,eget elit sodales scelerisque,30,60608
+792,Montana,etiam,44,lectus pellentesque at nulla suspendisse potenti,91,98529.79
+793,Nebraska,in,23,enim leo rhoncus sed vestibulum sit,19,65698.69
+794,California,sed,16,vitae nisl aenean lectus pellentesque eget,29,30765.32
+795,District of Columbia,orci,9,dapibus nulla suscipit ligula in,30,68065.26
+796,Alabama,sed tristique,1,scelerisque mauris sit amet eros,94,71593.51
+797,Texas,et magnis dis,6,ut rhoncus aliquet pulvinar sed nisl,46,17214.3
+798,Texas,in porttitor,34,erat vestibulum sed magna at,95,16578.29
+799,California,etiam pretium,30,metus aenean fermentum donec,65,49308.36
+800,Oregon,nec,37,amet turpis elementum ligula vehicula,78,88779.79
+801,Iowa,adipiscing molestie hendrerit,26,amet consectetuer adipiscing elit,61,77342.92
+802,Texas,luctus,5,id massa id nisl venenatis lacinia,72,88160.36
+803,Florida,sapien sapien non,10,mi nulla ac,24,61857.88
+804,Oklahoma,ipsum dolor,41,lorem integer tincidunt ante vel ipsum,37,98223.71
+805,Delaware,cubilia curae,4,porttitor id consequat in consequat ut,73,50372.73
+806,Indiana,justo,33,dolor sit amet consectetuer adipiscing,49,10342.81
+807,Texas,nec nisi,40,in faucibus orci,36,37750.69
+808,District of Columbia,ultrices,8,in consequat ut nulla,64,69805.88
+809,Nevada,tortor eu pede,28,ac nulla sed vel,20,19397.29
+810,South Carolina,sit amet,44,justo pellentesque viverra,27,96605
+811,Pennsylvania,at nibh in,9,mauris viverra diam vitae,80,91240.01
+812,Pennsylvania,convallis nunc proin,12,vestibulum eget vulputate ut ultrices vel,75,70172.28
+813,California,at,40,ligula pellentesque ultrices phasellus id sapien,34,43305.18
+814,Kansas,nam tristique,38,faucibus orci luctus et ultrices posuere,74,31992.88
+815,California,ut,16,nisi nam ultrices libero non mattis,73,82008.55
+816,Georgia,rhoncus,1,dictumst aliquam augue quam sollicitudin vitae,67,29753.3
+817,Texas,fusce posuere,38,quisque porta volutpat,54,80318.45
+818,Indiana,diam,16,sed justo pellentesque,33,73604.8
+819,Minnesota,vel,1,nulla mollis molestie lorem quisque,45,33351.05
+820,Georgia,eget,3,dui vel sem sed sagittis,69,31979.42
+821,Texas,eros,28,massa id nisl venenatis,81,55135.68
+822,Utah,sed interdum,15,aliquet maecenas leo odio condimentum id,66,40185.51
+823,New York,nulla suspendisse potenti,6,nibh in quis justo maecenas,20,13049.94
+824,Virginia,lobortis,35,arcu libero rutrum ac lobortis vel,18,96812.79
+825,Minnesota,quisque id,42,adipiscing molestie hendrerit at,48,47785.99
+826,Illinois,nulla,46,suspendisse potenti cras in purus,26,85797.69
+827,Virginia,non,19,condimentum neque sapien placerat,100,69611.32
+828,Alabama,consequat,6,eget orci vehicula condimentum curabitur,46,91795.13
+829,Indiana,tincidunt,42,augue vestibulum rutrum rutrum,69,95988.27
+830,Florida,ut,6,duis mattis egestas metus aenean,78,97576.79
+831,California,rutrum rutrum neque,18,quis lectus suspendisse potenti in,20,57688.6
+832,Kentucky,pellentesque volutpat,42,vulputate vitae nisl aenean,84,24433.63
+833,Connecticut,ultrices,12,ultrices posuere cubilia curae nulla dapibus,52,75374.15
+834,Georgia,nec sem duis,27,pellentesque ultrices phasellus id sapien,44,85786.05
+835,California,luctus,37,lacinia aenean sit amet justo,78,48871.38
+836,Wisconsin,venenatis lacinia,14,eros vestibulum ac est lacinia nisi,47,15256.67
+837,Texas,odio porttitor,36,id nisl venenatis lacinia,82,76668.52
+838,Maryland,proin risus praesent,30,dui maecenas tristique est,28,55959.88
+839,Kansas,non pretium quis,5,orci luctus et ultrices posuere,43,76651.98
+840,Tennessee,justo sollicitudin,25,justo sollicitudin ut,65,80555.49
+841,Delaware,odio odio elementum,8,sapien non mi integer ac,78,69530.31
+842,Massachusetts,nibh in hac,18,et eros vestibulum ac,53,45764.11
+843,Florida,id,37,at lorem integer tincidunt,30,54796.44
+844,California,convallis,42,ac tellus semper interdum mauris ullamcorper,66,92826.73
+845,Illinois,id mauris vulputate,46,sodales scelerisque mauris sit amet eros,65,62722.12
+846,New Mexico,eleifend,42,pharetra magna ac consequat metus,77,21247.08
+847,Connecticut,cursus vestibulum,32,sed justo pellentesque,35,52120.01
+848,Alabama,justo morbi ut,5,sagittis nam congue risus semper porta,37,86846.13
+849,Arkansas,suspendisse potenti nullam,7,ut massa volutpat convallis,83,21581.07
+850,Illinois,lectus pellentesque,16,semper rutrum nulla nunc,83,23052.46
+851,District of Columbia,sit amet,21,fermentum justo nec condimentum,30,81760.85
+852,New York,congue risus,32,pede posuere nonummy,21,57540.93
+853,Massachusetts,nunc,17,lorem quisque ut,22,46277.06
+854,Colorado,est lacinia nisi,40,id pretium iaculis diam erat,57,89382.5
+855,Utah,magnis,31,feugiat non pretium,90,64881.29
+856,Florida,tempor,15,varius ut blandit non interdum,64,63711.27
+857,Kansas,sit amet,49,luctus ultricies eu,85,90490.62
+858,California,consequat metus sapien,47,eu interdum eu tincidunt in,79,94388.51
+859,Arizona,tristique fusce congue,50,porttitor id consequat in consequat ut,92,54831.19
+860,Alabama,diam,27,interdum eu tincidunt,57,52099.32
+861,Utah,quis lectus suspendisse,24,ridiculus mus etiam,85,95431
+862,Massachusetts,aenean sit,4,consectetuer eget rutrum,32,83804.02
+863,California,nulla,5,quam suspendisse potenti nullam porttitor,81,13791.58
+864,Pennsylvania,eget eleifend luctus,46,diam in magna bibendum imperdiet,62,72155.32
+865,Georgia,quam a odio,35,lorem vitae mattis nibh,62,39754.27
+866,Virginia,suspendisse,8,libero ut massa,59,63341.83
+867,Colorado,metus vitae,8,eget tincidunt eget tempus,18,26096.76
+868,California,habitasse,10,vel nisl duis ac,88,12034.49
+869,Washington,leo maecenas,10,amet sapien dignissim vestibulum,71,29599.55
+870,California,nulla suspendisse potenti,42,semper sapien a libero,70,52443.64
+871,New York,iaculis,16,id nulla ultrices,96,23642.99
+872,California,eget,33,convallis morbi odio odio,95,20617.86
+873,West Virginia,nulla integer,24,ac diam cras pellentesque volutpat dui,79,59845.31
+874,California,in congue etiam,8,risus semper porta,94,65776
+875,Florida,curae,10,sit amet consectetuer adipiscing,49,14613.69
+876,Florida,leo pellentesque ultrices,24,pede posuere nonummy integer,32,49740.87
+877,New York,sapien,37,magna bibendum imperdiet,60,35723.28
+878,Pennsylvania,ligula sit amet,50,hendrerit at vulputate vitae,64,75128.25
+879,Texas,elementum ligula vehicula,32,tincidunt nulla mollis,52,77723.21
+880,Iowa,tempus,28,ipsum dolor sit,24,11572.34
+881,Colorado,cras non velit,36,pulvinar nulla pede ullamcorper,51,65675.97
+882,New Jersey,odio curabitur,25,nisi vulputate nonummy,63,38442.55
+883,Alabama,mauris sit amet,15,volutpat erat quisque erat eros,39,87223.4
+884,Texas,iaculis diam erat,23,non lectus aliquam sit,38,81459.86
+885,Georgia,vulputate,40,parturient montes nascetur ridiculus mus etiam,43,72283.51
+886,Ohio,condimentum curabitur in,12,non mauris morbi non lectus aliquam,79,35097.69
+887,Texas,odio porttitor id,21,pede venenatis non sodales sed tincidunt,45,19244.49
+888,Iowa,adipiscing lorem vitae,13,congue diam id ornare imperdiet,79,83776.59
+889,California,volutpat in,43,turpis eget elit sodales scelerisque,39,66621.81
+890,Virginia,at lorem,16,orci mauris lacinia sapien,23,79399.43
+891,California,tristique,33,lectus suspendisse potenti in eleifend,99,89205.81
+892,Tennessee,arcu sed augue,33,vel sem sed sagittis nam congue,73,69646.72
+893,Texas,nascetur ridiculus,47,vitae quam suspendisse potenti nullam,97,82149.69
+894,Minnesota,risus semper porta,38,suscipit ligula in,33,93836.78
+895,Missouri,ac,42,leo odio porttitor id consequat in,36,51471.74
+896,Maryland,eget rutrum at,27,eget semper rutrum nulla nunc purus,56,19422.01
+897,Iowa,dictumst maecenas ut,20,sapien cum sociis natoque penatibus,28,49720.47
+898,Texas,iaculis justo in,33,habitasse platea dictumst maecenas,28,60938.04
+899,District of Columbia,quis odio,1,ultrices vel augue vestibulum ante ipsum,20,28562.51
+900,California,at lorem,44,iaculis congue vivamus metus arcu,41,98395.13
+901,Virginia,donec,3,interdum mauris ullamcorper purus,57,61692.57
+902,Texas,odio justo,22,nulla neque libero convallis eget eleifend,82,71948.49
+903,California,integer a nibh,43,gravida nisi at nibh in hac,56,57546.41
+904,Illinois,sit amet cursus,30,rhoncus aliquet pulvinar sed nisl,52,13201.26
+905,New York,habitasse,39,aliquam erat volutpat in congue,49,22841.83
+906,Georgia,consequat nulla,9,cras mi pede malesuada in,24,35693.63
+907,Virginia,cubilia curae donec,12,cursus urna ut tellus,43,81264.7
+908,Ohio,nam tristique,21,erat fermentum justo nec condimentum neque,54,95815.42
+909,North Carolina,sed,47,tristique fusce congue diam id,24,64295.86
+910,Michigan,maecenas tincidunt lacus,50,in faucibus orci luctus,71,68163.08
+911,Georgia,est,32,interdum in ante,44,97328.84
+912,Texas,volutpat dui,33,ac enim in,60,17587.12
+913,Washington,convallis eget eleifend,22,ut ultrices vel,65,13169.31
+914,New Jersey,vel,22,tortor quis turpis sed,48,96952.01
+915,Florida,in,37,nibh in lectus pellentesque,67,44363.29
+916,Colorado,pretium iaculis justo,41,eleifend donec ut dolor morbi vel,81,14682.5
+917,Tennessee,mauris,29,vulputate ut ultrices vel augue,74,70940.5
+918,Michigan,neque vestibulum,1,sodales sed tincidunt,68,67600.52
+919,Mississippi,mauris vulputate elementum,41,enim sit amet nunc viverra,96,72404.74
+920,Connecticut,quam suspendisse potenti,29,vel sem sed sagittis,100,27622.13
+921,Tennessee,porttitor lacus at,39,et ultrices posuere,80,99407.93
+922,Washington,velit id,15,pede ullamcorper augue a suscipit nulla,75,88467.1
+923,Connecticut,at nibh in,16,eu magna vulputate luctus,58,50450.69
+924,North Carolina,elit,47,a feugiat et eros vestibulum ac,25,98752.33
+925,Kansas,urna pretium nisl,18,odio consequat varius integer ac,34,65258.51
+926,Alabama,maecenas rhoncus aliquam,47,massa volutpat convallis morbi odio odio,84,49711.55
+927,California,integer,13,aliquam erat volutpat in congue,33,14583.78
+928,Missouri,fringilla rhoncus mauris,18,mauris lacinia sapien,87,30428.92
+929,Minnesota,iaculis,33,justo pellentesque viverra,82,18688.65
+930,Washington,eu pede,29,penatibus et magnis dis,81,96242.7
+931,Florida,ultrices posuere,20,eget elit sodales scelerisque,33,90604.69
+932,California,curae duis,9,consequat varius integer ac leo pellentesque,65,58173.95
+933,Idaho,enim sit,41,dui maecenas tristique est et,92,24708.91
+934,Florida,nam tristique tortor,46,mauris enim leo rhoncus,61,49435.37
+935,California,nisi,14,condimentum neque sapien placerat ante nulla,58,30300.46
+936,California,aliquet ultrices,50,porta volutpat quam pede lobortis,86,35895.17
+937,Louisiana,aliquam erat,40,curae mauris viverra,35,84873.45
+938,District of Columbia,at ipsum,34,justo sit amet sapien,91,45410.08
+939,Texas,sem mauris laoreet,50,nisi nam ultrices libero non,20,60881.68
+940,California,viverra pede ac,37,purus phasellus in felis donec semper,74,47277.73
+941,Nebraska,tempor,23,ultrices posuere cubilia curae mauris viverra,37,63024.28
+942,Mississippi,nibh in lectus,43,egestas metus aenean,19,42885.47
+943,Pennsylvania,vivamus metus arcu,47,fusce congue diam id ornare imperdiet,29,71952.62
+944,Florida,nullam,40,pellentesque quisque porta volutpat erat,87,41841.92
+945,Idaho,nec sem,10,vulputate ut ultrices vel augue,60,66313.95
+946,California,vestibulum ac est,15,mattis egestas metus,39,40555.99
+947,Virginia,accumsan tellus,10,eros elementum pellentesque quisque porta volutpat,84,11327.39
+948,New Mexico,morbi,32,arcu libero rutrum ac lobortis,79,81839.45
+949,North Carolina,sit,6,ut at dolor quis odio consequat,84,92198.58
+950,Texas,mollis molestie lorem,46,rutrum nulla nunc,86,39341.88
+951,Oklahoma,amet nunc,45,non mi integer ac neque,83,25529.54
+952,California,luctus,34,mauris viverra diam vitae quam,55,18204.03
+953,Alabama,quis justo maecenas,5,congue elementum in,99,13666.34
+954,Virginia,nullam sit amet,31,ut dolor morbi vel lectus in,20,55679.72
+955,California,in congue,2,libero rutrum ac,23,20031.77
+956,Michigan,tortor id,33,eget vulputate ut ultrices vel,38,76430.02
+957,New York,curae,32,nulla eget eros elementum pellentesque,87,14711.37
+958,California,tristique,23,quisque erat eros viverra eget,95,27323.02
+959,Texas,tempor convallis nulla,19,libero rutrum ac,29,39007.42
+960,Florida,blandit mi,29,semper rutrum nulla nunc,65,67396.74
+961,North Carolina,nam congue risus,25,maecenas ut massa quis augue,96,98799.15
+962,Indiana,pede libero quis,12,eget semper rutrum nulla nunc,91,27385.62
+963,Florida,nunc vestibulum,40,velit donec diam neque vestibulum,53,37671.51
+964,Oklahoma,erat eros viverra,31,integer ac neque duis,97,88313.66
+965,California,mi pede malesuada,28,sapien sapien non mi integer ac,99,45873.64
+966,Maryland,aliquam augue quam,33,nibh quisque id justo sit amet,36,31863.43
+967,California,pellentesque quisque,13,cursus urna ut tellus nulla,59,26212.83
+968,California,aliquam lacus morbi,8,suspendisse potenti cras in purus,35,95943.88
+969,California,aenean sit,6,morbi vestibulum velit,54,58667.92
+970,Arizona,eget,38,cursus urna ut tellus nulla,45,83947.33
+971,Mississippi,tempor turpis nec,27,nulla integer pede justo lacinia eget,93,61137.14
+972,Louisiana,felis fusce,44,amet sem fusce consequat,37,30074.95
+973,Oregon,velit,16,risus semper porta,44,84448.77
+974,Nevada,metus vitae,7,eros viverra eget congue eget semper,28,10310.62
+975,Utah,integer,45,faucibus orci luctus et ultrices posuere,24,31002.57
+976,Illinois,sapien,34,eros suspendisse accumsan tortor quis turpis,81,28166.33
+977,Iowa,pede,29,eros viverra eget congue,96,60482.62
+978,California,ante ipsum primis,35,quam turpis adipiscing lorem vitae mattis,61,30600.26
+979,Texas,nibh in,28,in felis eu,32,40155.73
+980,Colorado,quis lectus,23,pede libero quis orci nullam molestie,44,96794.37
+981,Florida,odio curabitur,14,nulla ac enim,63,88276.7
+982,Tennessee,rutrum,41,curae mauris viverra diam vitae quam,23,27794.21
+983,Texas,in felis eu,2,pede justo eu massa donec dapibus,97,48191.45
+984,Maryland,augue,11,imperdiet nullam orci pede,19,70185.89
+985,Rhode Island,morbi odio,7,vel est donec odio justo,18,93219.74
+986,Florida,dolor,26,ante ipsum primis in faucibus,61,81826.61
+987,Indiana,pretium iaculis,12,viverra pede ac diam,70,88723.62
+988,California,aliquam,12,id consequat in,99,76003.06
+989,Texas,dictumst etiam faucibus,32,luctus nec molestie sed,46,95383.7
+990,California,eu magna vulputate,34,erat vestibulum sed magna at,63,90006.32
+991,New York,ante vel,21,pellentesque volutpat dui maecenas tristique,63,99271.42
+992,Texas,commodo placerat,27,semper interdum mauris ullamcorper purus,73,19328.08
+993,Colorado,nunc donec quis,50,sapien varius ut blandit non,48,39520.93
+994,Tennessee,ullamcorper purus sit,39,arcu adipiscing molestie hendrerit at,36,37008.56
+995,Wisconsin,volutpat convallis,43,sem duis aliquam convallis,87,88543.04
+996,California,non,25,felis fusce posuere felis,61,17869.91
+997,Florida,rutrum,12,aenean lectus pellentesque eget nunc,30,22265.8
+998,Pennsylvania,malesuada in,45,ac nulla sed vel enim,90,20654.16
+999,Colorado,suscipit a,5,vestibulum eget vulputate ut ultrices,96,25447.58
+1000,Texas,sed justo,33,platea dictumst maecenas ut massa,47,60518.19
