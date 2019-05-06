@@ -13,6 +13,7 @@ plt.rcParams['figure.figsize'] = (16,9)
 plt.style.use('ggplot')
 
 kmeans_global = None
+initial_data = None
 
 def from_external():
     return "here from k means!!!"
@@ -22,6 +23,8 @@ def get_initial_data():
 
 def intialize_data():
     data = pd.read_csv("InsuranceUserData.csv")
+    global initial_data
+    initial_data = data
     #print(data.shape)
     #print(data.head())
     headers = list(data.columns)
@@ -64,11 +67,25 @@ def kmeans_on_insurance_data(X):
     print("size of training data", len(X))
     print("size of cluster assignments", len(kmeans.labels_))
     #print("data frame of initial data\n", data)
+    print(initial_data[kmeans.labels_ == 10])
+    
+    """
+    km_labels = kmeans.labels_
+    index = [x[0] for x, value in np.ndenumerate(km_labels) if value ==15]
+    print("index")
+    print(index)
+    """
+
+    """
     for index, row  in get_initial_data().iterrows():
         print("row" + str(index) + " is in cluster " + str(kmeans.labels_[index])) 
+        cluster_points = pd.DataFrame()
+        cluster_points['cluster'] = labels
+        cluster_points[cluster_points.cluster == 5]
+        print(cluster_points)
         print(row.axes)
         #print(row["AvgIncome"])
-
+    """
     global kmeans_global
     kmeans_global = kmeans
 
@@ -80,7 +97,35 @@ def predict_new_point(new_point):
     # get cluster it is in
     print(np.array(new_point))
     new_point_label = kmeans_global.predict(np.array((new_point)).reshape(1, -1))
-    print(new_point_label)
+    print("The point belongs to cluster", new_point_label)
+    dict = create_dictionary()
+    range = dict[new_point_label]
+
+def create_dictionary():
+
+    x = {}
+
+    x[0] = (147.84, 205.30)
+    x[1] = (205.31, 262.76)
+    x[2] = (262.77, 320.22)
+    x[3] = (320.23, 377.68)
+    x[4] = (377.69, 435.14)
+    x[5] = (435.15, 492.60)
+    x[6] = (492.61, 550.06)
+    x[7] = (550.07, 607.52)
+    x[8] = (607.53, 664.98)
+    x[9] = (664.99, 722.04)
+    x[10] = (722.05, 779.90)
+    x[11] = (779.91, 837.06)
+    x[12] = (837.07, 894.82)
+    x[13] = (894.83, 952.28)
+    x[14] = (952.29, 1009.74)
+    x[15] = (1009.75, 1057.20)
+    x[16] = (1057.21, 1124.66)
+    x[17] = (1124.67, 1182.10)
+
+    return x
+
     
 if __name__ == '__main__':
     print("main method")
@@ -90,17 +135,3 @@ if __name__ == '__main__':
     new_point = [5, 25, 55000]
     predict_new_point(new_point)
 
-
-
-"""
-dict = {}
-
-cluster_map = pd.DataFrame()
-cluster_map['data_index'] = data.index.array
-cluster_map['cluster'] = kmeans.labels_
-print(cluster_map[cluster_map.cluster == 3])
-
-for i in range(0, k):
-    cluster = cluster_map[cluster_map.cluster == i]
-    print(cluster)
-"""    
